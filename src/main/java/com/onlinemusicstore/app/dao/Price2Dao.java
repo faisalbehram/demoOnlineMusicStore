@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import com.onlinemusicstore.app.models.Price2;
 import com.onlinemusicstore.app.repository.Price2Repository;
 
-
+// this is price2 Dao
 @Repository
 public class Price2Dao {
 
